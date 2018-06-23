@@ -83,7 +83,7 @@ let otherFunction = anyFunction /* A semicolon "WILL NOT" be put here */
  * This is wrong since there isn't a property ""'option1', 'option2', 'option3'" in the anyFunction
  * object.
  */
-//['option1', 'option2', 'option3'].length
+['option1', 'option2', 'option3'].length
 
 /**
  * RULE 5
@@ -97,7 +97,7 @@ let otherFunction = anyFunction /* A semicolon "WILL NOT" be put here */
  */
 
 function itWillReturnNothing() {
-  return /* "return" is a restriction production then a semicolon will be put here and following code will note run */
+  return /* "return" is a restriction production then a semicolon will be put here therefore the following code will note run */
   {
     anyProperty: "value";
   }
