@@ -13,3 +13,5 @@ JShint is configured in the [.jshintrc](./.jshintrc) placed in the root path of 
 [learn the best way to check undefined variables](./best_way_to_check_undefined.js)
 
 [understand why === is better than ==](./best_way_to_compare.js)
+
+[how the JavaScript compiler interprets variable declarations](./variable_hosting.js)
