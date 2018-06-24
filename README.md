@@ -4,7 +4,7 @@ Linting is the process of verifying code quality. This process may identify code
 
 [JShint](http://jshint.com/docs/) is an application that verifies problems in JavaScript code.  
 
-JShint is configured in the [.jshintrc](./.jshintrc) placed in the root path of this repository. All the JShint options can be see [here](http://jshint.com/docs/options/)  .
+JShint is configured in the [.jshintrc](./.jshintrc) placed in the root path of this repository. All the JShint options can be seen [here](http://jshint.com/docs/options/)  .
 
 ### Understand why the following topics are important:  
 
