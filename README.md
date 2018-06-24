@@ -19,3 +19,5 @@ JShint is configured in the [.jshintrc](./.jshintrc) placed in the root path of 
 [how 'strict mode' avoids confusion](./when_strict_mode_helps.js)
 
 [how the 'this' key word is assigned and works](./what_is_this.js)
+
+[how to use async/await to make asynchronous code synchronous](./async_await.js)
