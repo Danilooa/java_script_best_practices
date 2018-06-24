@@ -1,4 +1,4 @@
-### linting
+### Linting
 
 Linting is the process of verifying code quality. This process may identify code snippets that may cause problems is the future.  
 
@@ -6,7 +6,7 @@ Linting is the process of verifying code quality. This process may identify code
 
 JShint is configured in the [.jshintrc](./.jshintrc) placed in the root path of this repository. All the JShint options can be see [here](http://jshint.com/docs/options/)  .
 
-### Learn how:  
+### Understand why the following topics are important:  
 
 [understanding when ; is automatically placed in the code](./automatic_semicolon_rules.js) 
 
@@ -14,4 +14,4 @@ JShint is configured in the [.jshintrc](./.jshintrc) placed in the root path of 
 
 [understand why === is better than ==](./best_way_to_compare.js)
 
-[how the JavaScript compiler interprets variable declarations](./variable_hoisting.js)
+[understand why it is important to declare variables in beginning of the contexts](./variable_hoisting.js)
