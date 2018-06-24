@@ -15,3 +15,5 @@ JShint is configured in the [.jshintrc](./.jshintrc) placed in the root path of 
 [understand why === is better than ==](./best_way_to_compare.js)
 
 [understand why it is important to declare variables on the top of the contexts](./variable_hoisting.js)
+
+[understand how 'strict mode' avoids confusion](./when_strict_mode_helps.js)
