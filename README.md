@@ -8,12 +8,14 @@ JShint is configured in the [.jshintrc](./.jshintrc) placed in the root path of 
 
 ### Understand why the following topics are important:  
 
-[understanding when ; is automatically placed in the code](./automatic_semicolon_rules.js) 
+[when ; is automatically placed in the code](./automatic_semicolon_rules.js) 
 
-[learn the best way to check undefined variables](./best_way_to_check_undefined.js)
+[best way to check undefined variables](./best_way_to_check_undefined.js)
 
-[understand why === is better than ==](./best_way_to_compare.js)
+[why === is better than ==](./best_way_to_compare.js)
 
-[understand why it is important to declare variables on the top of the contexts](./variable_hoisting.js)
+[why it is important to declare variables on the top of the contexts](./variable_hoisting.js)
 
-[understand how 'strict mode' avoids confusion](./when_strict_mode_helps.js)
+[how 'strict mode' avoids confusion](./when_strict_mode_helps.js)
+
+[how the 'this' key word is assigned and works](./what_is_this.js)
