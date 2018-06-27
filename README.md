@@ -21,3 +21,19 @@ JShint is configured in the [.jshintrc](./.jshintrc) placed in the root path of 
 [how the 'this' key word is assigned and works](./what_is_this.js)
 
 [how to use async/await to make asynchronous code synchronous](./async_await.js)
+
+### Simplify you life by:
+
+running **$ npm init** to init a project  
+
+setting the property **engines** in the file **package.json** to make it clear where you code is allowed to run  
+
+running **$ npm config set save=true** to aways refresh **package.json** when something new is installed  
+
+running **$ npm config set save-exact=true** to defined the exact package versions that your project depends on  
+
+installing **$ npm install -g foreman** and writing an **.env** file to define global variables to your application
+
+always naming files in lower case to avoid crossplatform problems
+
+
