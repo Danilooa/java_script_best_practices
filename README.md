@@ -22,7 +22,7 @@ JShint is configured in the [.jshintrc](./.jshintrc) placed in the root path of 
 
 [how to use async/await to make asynchronous code synchronous](./async_await.js)
 
-### Simplify you life by:
+### Simplify your life by:
 
 running **$ npm init** to init a project  
 
